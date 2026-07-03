@@ -11,6 +11,7 @@ def start_handler(update,context):
                    chat_id=update.message.from_user.id)
 
 def main():
+    print("TOKEN =", TOKEN)
     updater=Updater(TOKEN)
     dispatcher=updater.dispatcher
 
