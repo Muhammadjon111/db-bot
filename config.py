@@ -1,17 +1,4 @@
-# # Bismillahir Rohmanir Rohiim
-#
-# import os
-# from dotenv import load_dotenv
-#
-# load_dotenv()
-#
-# TOKEN = os.getenv("TOKEN")
-# DATA_BASE = "database-sample.db"
-# print("TOKEN =", TOKEN)
+# Bismillahir Rohmanir Rohiim
 
-import os
-
-print("ALL ENV VARS:", os.environ)
-
-TOKEN = os.getenv("TOKEN")
+TOKEN = "8714985459:AAGe3KkikkhEmlXtX80QMGx50ZQ_7MPL6Hk"
 DATA_BASE = "database-sample.db"
